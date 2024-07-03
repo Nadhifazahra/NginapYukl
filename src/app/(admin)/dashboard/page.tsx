@@ -11,11 +11,6 @@ function Dashboard() {
           title='Overview'
           subtitle='You’ve made huge progress'
         />
-        <Button
-          size='button'
-        >
-          Export Report
-        </Button>
       </div>
 
       <div className='mt-[30px]'>

@@ -20,11 +20,6 @@ function MyListings() {
           title='My Listings'
           subtitle='Manage your house and get money'
         />
-        <Button
-          size='button'
-        >
-          Add New
-        </Button>
       </div>
 
       <div className='mt-[30px] space-y-5'>

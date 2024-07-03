@@ -12,13 +12,7 @@ function Overview() {
           title='Overview'
           subtitle='You’ve made huge progress'
         />
-        <Button
-          size='button'
-        >
-          Export Report
-        </Button>
       </div>
-
       <div className='mt-[30px]'>
         <h1 className='font-bold text-lg leading-[27px] text-secondary'>
           Statistics

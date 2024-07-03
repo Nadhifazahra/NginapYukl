@@ -22,7 +22,7 @@ function Home() {
           <div className="max-w-[555px]">
             <Title
               title="Find Glorious Living And Loving Space"
-              subtitle="Dolor house comfortable si amet with cheap price that also lorem when you need grow."
+              subtitle="Comfortable and Affordable, Perfect for When You Need to Grow."
               section="hero"
             />
             <div className="pt-[50px] flex items-center">
@@ -47,8 +47,8 @@ function Home() {
         <div className="h-[128px] flex justify-center xl:justify-between items-center space-x-6 xl:space-x-12 bg-white shadow-indicator rounded-[20px] px-9 py-5 xl:px-[50px] xl:py-[29px]">
           <CardIndicator
             icon="/icons/house-2.svg"
-            title="382M"
-            subtitle="Kos Available"
+            title="562"
+            subtitle="Villa Available"
             variant="indicator"
           />
           <Separator orientation="vertical" className="bg-separator" />
